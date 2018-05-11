@@ -1,0 +1,8 @@
+2018-05-07 14:17:20,568 - interface - INFO - https://api.douban.com/v2/book/1084336
+2018-05-07 14:17:20,628 - interface - INFO - case1 run successfully
+2018-05-07 14:17:20,717 - interface - INFO - https://api.douban.com/v2/book/111
+2018-05-07 14:17:20,719 - interface - INFO - case2 run successfully
+2018-05-07 14:17:20,826 - interface - INFO - https://api.douban.com/v2/book/search?q=%E5%B0%8F%E7%8E%8B%E5%AD%90&tag=&start=&count=1
+2018-05-07 14:17:20,827 - interface - INFO - case3 run successfully
+2018-05-07 14:17:20,918 - interface - INFO - https://api.douban.com/v2/book/search?q=&tag=&start=&count=1
+2018-05-07 14:17:20,919 - interface - INFO - case4 run successfully

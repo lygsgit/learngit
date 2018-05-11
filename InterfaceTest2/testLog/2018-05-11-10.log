@@ -1,0 +1,28 @@
+2018-05-11 10:16:34,639 - interface - INFO - https://api.douban.com/v2/book/1084336
+2018-05-11 10:16:34,690 - interface - INFO - case1 run successfully
+2018-05-11 10:16:34,788 - interface - INFO - https://api.douban.com/v2/book/111
+2018-05-11 10:16:34,789 - interface - INFO - case2 run successfully
+2018-05-11 10:16:34,952 - interface - INFO - https://api.douban.com/v2/book/search?q=%E5%B0%8F%E7%8E%8B%E5%AD%90&tag=&start=&count=1
+2018-05-11 10:16:34,953 - interface - INFO - case3 run successfully
+2018-05-11 10:16:35,054 - interface - INFO - https://api.douban.com/v2/book/search?q=&tag=&start=&count=1
+2018-05-11 10:16:35,055 - interface - INFO - case4 run successfully
+2018-05-11 10:19:19,149 - interface - INFO - world
+2018-05-11 10:19:22,787 - interface - INFO - world
+2018-05-11 10:19:32,458 - interface - INFO - world
+2018-05-11 10:19:32,459 - interface - INFO - world
+2018-05-11 10:19:32,460 - interface - INFO - world
+2018-05-11 10:19:32,462 - interface - INFO - world
+2018-05-11 10:19:54,274 - interface - INFO - world
+2018-05-11 10:19:54,276 - interface - INFO - world
+2018-05-11 10:19:54,277 - interface - INFO - world
+2018-05-11 10:19:54,279 - interface - INFO - world
+2018-05-11 10:19:54,280 - interface - INFO - world
+2018-05-11 10:20:34,008 - interface - INFO - world
+2018-05-11 10:22:22,368 - interface - INFO - https://api.douban.com/v2/book/1084336
+2018-05-11 10:22:22,381 - interface - INFO - case1 run successfully
+2018-05-11 10:22:22,482 - interface - INFO - https://api.douban.com/v2/book/111
+2018-05-11 10:22:22,483 - interface - INFO - case2 run successfully
+2018-05-11 10:22:22,592 - interface - INFO - https://api.douban.com/v2/book/search?q=%E5%B0%8F%E7%8E%8B%E5%AD%90&tag=&start=&count=1
+2018-05-11 10:22:22,593 - interface - INFO - case3 run successfully
+2018-05-11 10:22:22,682 - interface - INFO - https://api.douban.com/v2/book/search?q=&tag=&start=&count=1
+2018-05-11 10:22:22,683 - interface - INFO - case4 run successfully
